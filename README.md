@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: improper handling of divide-by-zero errors. The `badproc` function showcases this issue, while the `bugSolution.tcl` file offers a corrected version.  The error occurs when the input `x` is 1, leading to division by zero. The solution adds a check to prevent this.
